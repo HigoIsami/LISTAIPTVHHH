@@ -69,3 +69,15 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22015.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22017.ts
+#EXTINF:-1 tvg-id="JOJSport.sk"tvg-logo="https://i.imgur.com/KirqaU4.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",JOJ Šport (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo"tvg-logo="https://i.imgur.com/2EmrZPQ.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="JSPORTS1.jp"tvg-logo="https://i.imgur.com/vEpjLnj.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 tvg-id="JSPORTS2.jp"tvg-logo="https://i.imgur.com/g1GLVH2.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 tvg-id="JSPORTS3.jp"tvg-logo="https://i.imgur.com/xdI361E.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 tvg-id="JSPORTS4.jp"tvg-logo="https://i.imgur.com/fBcyZNL.png"tvg-shift=""group-title="General Sports":http-referrer="":http-user-agent="",J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
